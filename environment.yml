@@ -1,0 +1,11 @@
+name: ml
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - tensorflow
+  - keras
+  - pandas
+  - numpy
+  - ipykernel
+prefix: /opt/conda/envs/ml
